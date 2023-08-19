@@ -1,3 +1,7 @@
+
+![BTC Price Tracker](https://github.com/vish-srivastava/btc-price-tracker/assets/24750869/c049682f-6030-4f71-a06e-94473f14bd10)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
