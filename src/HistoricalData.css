@@ -1,0 +1,27 @@
+/* HistoricalData.css */
+.historical-data {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  
+  .info-box {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-right: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-label {
+    font-weight: bold;
+    margin: 0;
+    margin-right: 5px;
+  }
+  
+  .info-value {
+    margin: 0;
+  }
+  
